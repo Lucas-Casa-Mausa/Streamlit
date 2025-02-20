@@ -23,5 +23,4 @@ Estou pensando em integrar um **DataFrame** usando **Pandas** 📊 para registra
 
 Porque até uma **simples tela de login** pode ir muito além do básico. 🚀
 
-💬 **Curtiu a ideia? Tem outras sugestões?**  
-Vamos trocar ideias nos comentários! 👇
+
